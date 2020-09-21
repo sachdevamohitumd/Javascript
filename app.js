@@ -30,7 +30,6 @@
 
 
 
-
     function checkForEvents() {
         btnDiv.addEventListener('click', function(e){
             getHumanInfo(e);

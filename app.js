@@ -62,6 +62,11 @@
         console.log(humanData);
     };
 
+
+    function  doesNothin() {
+        
+    }
+
     // Create Dino Compare Method 1
     // NOTE: Weight in JSON file is in lbs, height in inches.
 
